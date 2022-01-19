@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import Orders from "./components/Orders";
 import ViewFlight from "./components/ViewFlight";
+import "./App.css";
 const App = () => {
   return (
     <Router>

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "../app.css";
+
 import FlightSchedule from "./FlightSchedule";
 import Orders from "./Orders";
 import flightData from "../data/coding-assignment-schedule.json";
